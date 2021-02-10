@@ -1,0 +1,41 @@
+{ 
+    "posts":[
+        {
+            "id": 1,
+            "name":"Kanika",
+            "address":"Bengaluru",
+            "mobile":9876543210,
+            "aboutus":"Lorem cjder wudcbhsdb uewcbhui uwec ubh u uegwb weben ub eb jcghh hbijhgh ih iuhj ib cienv u jjh budhc incjv uhjbc jj jujjkok khij innm iiiiib hcnvvvvii ierihvhjfre fevhefhvherv rehvnj."
+        },
+        {
+            "id": 2,
+            "name":"Kowshik",
+            "address":"Mysuru",
+            "mobile":9876543210,
+            "aboutus":"Lorem cjder wudcbhsdb uewcbhui uwec ubh u uegwb weben ub eb jcghh hbijhgh ih iuhj ib cienv u jjh budhc incjv uhjbc jj jujjkok khij innm iiiiib hcnvvvvii ierihvhjfre fevhefhvherv rehvnj."
+        },
+        {
+            "id": 3,
+            "name":"Shilpa",
+            "address":"Mandya",
+            "mobile":9876543210,
+            "aboutus":"Lorem cjder wudcbhsdb uewcbhui uwec ubh u uegwb weben ub eb jcghh hbijhgh ih iuhj ib cienv u jjh budhc incjv uhjbc jj jujjkok khij innm iiiiib hcnvvvvii ierihvhjfre fevhefhvherv rehvnj."
+        }
+    ],
+    "products":[
+        {
+            "id":1234,
+            "name": "Lg 21 inches TV",
+            "price":12333,
+            "sgst":0,
+            "cgst":0
+        },
+        {
+            "id":1255,
+            "name": "Sony 21 inches TV",
+            "price":52333,
+            "sgst":0,
+            "cgst":0
+        }
+    ]
+}
